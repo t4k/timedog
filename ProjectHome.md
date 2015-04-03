@@ -51,4 +51,4 @@ If you have a need to copy a Time Machine volume without using a disk block copy
 
 If your time machine backup includes files which are not reachable or readable as a normal user, you should run `timedog` using `sudo`
 
-# `sudo /path/to/timedog -d 5 -l`
+`# sudo /path/to/timedog -d 5 -l`
